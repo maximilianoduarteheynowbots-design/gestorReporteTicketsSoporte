@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Tickets y Reportes Azure DevOps",
+  "description": "Dashboard para visualizar reportes por cliente, tiempos de solución y gestión de tickets activos con alertas de calidad de datos y visualización de bugs relacionados.",
+  "requestFramePermissions": []
+}
